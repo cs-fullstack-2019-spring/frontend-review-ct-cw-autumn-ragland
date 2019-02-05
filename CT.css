@@ -1,0 +1,26 @@
+/*define cells*/
+td{
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    font-size: 50px
+}
+
+td:hover{
+    border: 1px gray solid;
+}
+/*center table*/
+table{
+    margin: auto;
+}
+/*vertical borders class to be applied to certain cells*/
+.vertical{
+ border-right: 1px solid black;
+ border-left: 1px solid black;
+}
+/*horizontal borders class to be applied to certain cells*/
+.horizontal{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
