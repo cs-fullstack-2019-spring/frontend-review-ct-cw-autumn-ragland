@@ -1,3 +1,6 @@
+### POINTS: 1.5
+### Nice Job but I can keep clicking after end of game and get false positives. This was really hard so wish could have gave you more.
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
